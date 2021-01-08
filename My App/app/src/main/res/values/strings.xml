@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="real_admob_app_id">ca-app-pub-8880791402614461~2973967338</string>
+    <string name="real_admob_app_unit_id">ca-app-pub-8880791402614461/6293253486</string>
+
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_app_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
